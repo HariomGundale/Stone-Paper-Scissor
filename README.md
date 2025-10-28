@@ -4,6 +4,11 @@ A simple web-based Stone-Paper-Scissor (Rock-Paper-Scissors) game built using HT
 
 ---
 
+## 🌐 Live Demo
+🎮 [Play Stone-Paper-Scissor](https://hariomgundale.github.io/Stone-Paper-Scissor/)  
+
+---
+
 ## 🎮 Features
 
 - Choose between “Stone”, “Paper” or “Scissor”.  
@@ -51,7 +56,7 @@ Stone-Paper-Scissor/
 ├── style.css         # Styling and layout
 ├── app.js            # Game logic and DOM interactions
 └── images/           # (Optional) Image assets used for icons or buttons
-
+```
 
 ## 🧠 How It Works
 
