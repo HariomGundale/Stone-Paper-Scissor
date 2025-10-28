@@ -44,13 +44,14 @@ You only need a modern web browser. No additional setup or server required (work
 4. Start playing!
 
 ## 📁 Project Structure
-
+```plaintext
 Stone-Paper-Scissor/
 │
 ├── index.html        # Main HTML file
 ├── style.css         # Styling and layout
 ├── app.js            # Game logic and DOM interactions
 └── images/           # (Optional) Image assets used for icons or buttons
+
 
 ## 🧠 How It Works
 
